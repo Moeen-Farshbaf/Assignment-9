@@ -37,13 +37,13 @@ class Kasr:
             c.show()
         if choice == '2':
             c = x.sub(y)
-            c.show
+            c.show()
         if choice == '3':
             c = x.mul(y)
-            c.show
+            c.show()
         if choice == '4':
             c = x.div(y)
-            c.show
+            c.show()
         elif choice == 'exit':
             exit()
 active = True
